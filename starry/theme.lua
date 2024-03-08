@@ -19,6 +19,8 @@ return {
         awful.layout.suit.tile,
         awful.layout.suit.floating
     },
+    modkey = "Mod4",
+    terminal = "kitty",
     useless_gap = dpi(5),
     wallpaper = install_dir .. "wallpapers/wallpaper.png",
 }

@@ -12,3 +12,4 @@ signals_handlers.init()
 local auto_starter = require("src.core.auto_starter")
 auto_starter.init()
 
+require("keybinds.init")

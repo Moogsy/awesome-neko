@@ -1,7 +1,7 @@
 local awful = require("awful")
 local beautiful = require("beautiful")
 local gears = require("gears")
-local utils = require("utils.tables")
+local utils = require("src.utils.tables")
 local wibox = require("wibox")
 
 local theme = beautiful.get()
